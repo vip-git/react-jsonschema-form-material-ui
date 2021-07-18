@@ -129,7 +129,7 @@
     "file-loader": "6.0.0",
     "fs-extra": "10.0.0",
     "gts": "3.1.0",
-    "html-webpack-plugin": "4.3.0",
+    "html-webpack-plugin": "4.5.2",
     "husky": "^6.0.0",
     "image-webpack-loader": "6.0.0",
     "jest": "26.6.3",
