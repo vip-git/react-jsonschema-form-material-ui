@@ -63,7 +63,7 @@
     "react-material-ui-5-date-range-picker": "1.0.12",
     "react-number-format": "4.5.0",
     "react-select": "4.1.0",
-    "slate": "0.47.9",
+    "slate": "0.63.0",
     "slate-collapse-on-escape": "0.8.1",
     "slate-html-serializer": "0.8.13",
     "slate-plain-serializer": "0.7.13",
