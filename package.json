@@ -126,7 +126,7 @@
     "eslint-plugin-react": "7.21.5",
     "eslint-plugin-react-hooks": "4.2.0",
     "express": "4.17.1",
-    "file-loader": "6.0.0",
+    "file-loader": "6.2.0",
     "fs-extra": "10.0.0",
     "gts": "3.1.0",
     "html-webpack-plugin": "4.3.0",
